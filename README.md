@@ -8,6 +8,7 @@ Awesome GAN-based Image Restoration
 
 ## 2015
 (**TIP 15**) Single Image Superresolution Based on Gradient Profile Sharpness  [[paper](https://ieeexplore.ieee.org/document/7063909)][[code](https://github.com/Hesam-lab/Image-Super-resolution)]  
+
 (**CVPR 15**) Single Image Super-resolution from Transformed Self-Exemplars  [[paper](https://vision.ai.illinois.edu/html-files-to-import/publications/huangcvpr2015.pdf)][[code](https://github.com/jbhuang0604/SelfExSR)]
 
 ## 2017
